@@ -1,5 +1,4 @@
-# ECEN-Captsone-Smart-Aggregator-Team-37
-This is my (Somil Gupta's) mobile app code
+This is my mobile app code
 
 The Screens are contained in the Screens Folder
 
